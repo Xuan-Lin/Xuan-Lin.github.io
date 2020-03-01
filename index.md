@@ -2,7 +2,11 @@
 
 My name is Xuan Lin.
 
-### Markdown
+![](uoft.png)
+
+[Linkedin](https://www.linkedin.com/in/xuan-lin-4a7a1315a/)
+
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
