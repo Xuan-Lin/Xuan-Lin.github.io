@@ -44,7 +44,7 @@ regression.
 
 ## Contact me
 
-- [Email](xuanl2@illinois.edu)
+- Email: xuanl2@illinois.edu
 - [CV](https://drive.google.com/open?id=1lTdcTzZd6QJ72bnshxN49P0Dn9e7wRZJ)
 - [Github](https://github.com/Xuan-Lin)
 - [Linkedin](https://www.linkedin.com/in/xuan-lin-4a7a1315a/)
