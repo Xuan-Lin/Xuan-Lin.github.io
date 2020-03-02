@@ -1,6 +1,6 @@
 ## About me
 
-I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), and I will be a graduate student at the [University of Toronto](https://www.utoronto.ca/) starting from August 2020. I am currently a research assistant at [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). 
+I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), and I will be a graduate student at the [University of Toronto](https://www.utoronto.ca/) starting from August 2020. I am currently a research assistant at the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). 
 
 ![](uoft.png)
 
