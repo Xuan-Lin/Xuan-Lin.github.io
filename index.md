@@ -5,7 +5,7 @@ I am a senior student majoring in Economics and Statistics at the [University of
 ![](uoft.png)
 
 
-### Research Projects
+## Research Projects
 
 #### Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios
 
@@ -25,7 +25,7 @@ contribute the most to the price, yet diamond cut quality only has a trivial eff
 - Used R to set up multiple machine learning models. Parameter tuning was performed to enhance prediction accuracy.
 - Presented at UIUC Economics Research Symposium.
 
-### Consulting Experience
+## Consulting Experience
 
 #### Testing Racial Disparities in Traffic Stops with Veil-of-darkness Method 
 
@@ -35,14 +35,14 @@ period, where darkness events were used as the race-neutral benchmark, to test f
 - Conducted literature review on past studies, used R for data preparation and running VOD analysis with logistic
 regression.
 
-### Teaching Experience
+## Teaching Experience
 
 #### Teaching Assistant - Applied Machine Learning in Economics
 
 - Conducted weekly office hours, managed the online discussion forum, assisted with lab sessions, and evaluated students’ project reports.
 - Helped students strengthen statistical concepts, programming skills, and report writing skills.
 
-### Contact me
+## Contact me
 
 - [Email](xuanl2@illinois.edu)
 - [CV](https://drive.google.com/open?id=1lTdcTzZd6QJ72bnshxN49P0Dn9e7wRZJ)
