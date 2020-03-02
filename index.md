@@ -33,5 +33,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact me
 
 - Email: xuanl2@illinois.edu
-- [Github] (https://github.com/Xuan-Lin)
+- [Github](https://github.com/Xuan-Lin)
 - [Linkedin](https://www.linkedin.com/in/xuan-lin-4a7a1315a/)
