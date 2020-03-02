@@ -1,6 +1,6 @@
 ## About me
 
-My name is Xuan Lin.
+I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), and I will be a graduate student at the [University of Toronto](https://www.utoronto.ca/) starting from August 2020. I am currently a research assistant at [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). 
 
 ![](uoft.png)
 
@@ -30,10 +30,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact me
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xuan-Lin/Xuan-Lin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Email: xuanl2@illinois.edu
+- [Github] (https://github.com/Xuan-Lin)
+- [Linkedin](https://www.linkedin.com/in/xuan-lin-4a7a1315a/)
