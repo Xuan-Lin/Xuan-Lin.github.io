@@ -14,7 +14,7 @@ Stat 385 has been an enriching learning experience for me. The most rewarding pa
 
 ## Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios
 
-This is a current project supervised by the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi). The goal is to investigate how option data on the components of a portfolio can be employed to determine the Value-at-Risk of the investment portfolio and to explore model-free approaches for determining the VaR. I used R to set up binomial tree model and compute implied volatility surface. This project is scheduled to be presented at the [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/symposium.html).
+This is a current research project under the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi). The goal is to investigate how option data on the components of a portfolio can be employed to determine the Value-at-Risk of the investment portfolio and to explore model-free approaches for determining the VaR. I used R to set up binomial tree model and compute implied volatility surface. This project is scheduled to be presented at the [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/symposium.html).
 
 ## Are Microloans Too Small?
 
