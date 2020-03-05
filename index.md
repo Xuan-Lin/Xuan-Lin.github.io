@@ -6,10 +6,16 @@ I am a senior student majoring in Economics and Statistics at the [University of
 
 ## Stat 385 - Statistical Programming
 
-Stat 385 has been an enriching learning experience for me. The most rewarding part is version control using github. In this semester I am working on 2 group projects, and github has made group collaborations much more efficient.
+Stat 385 has been an enriching learning experience for me. The most rewarding part is version control using github, which has made group collaborations much more efficient. I also realized the great potential that can be achieved using r, such as creating a presentation slide, writing an academic report and generating an interactive plot.
 
 ```{r}
-# hello world
+# something cool
+library(plotly)
+# volcano is a numeric matrix that ships with R
+fig <- plot_ly(z = ~volcano)
+fig <- fig %>% add_surface()
+
+fig
 ```
 
 ## Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios
