@@ -1,6 +1,6 @@
 ## About me
 
-I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), and I will be a graduate student at the [University of Toronto](https://www.utoronto.ca/) starting from August 2020. I am currently a research assistant at the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). 
+I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Starting from August 2020, I will be pursuing my master degree in management analytics at the [University of Toronto](https://www.utoronto.ca/). I am currently a research assistant at the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I have worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). I am actively seeking job opportunities in marketing analytics.
 
 ![](uoft.png)
 
@@ -25,7 +25,7 @@ contribute the most to the price, yet diamond cut quality only has a trivial eff
 - Used R to set up multiple machine learning models. Parameter tuning was performed to enhance prediction accuracy.
 - Presented at UIUC Economics Research Symposium.
 
-## Consulting Experience
+## Consulting Experiences
 
 #### Testing Racial Disparities in Traffic Stops with Veil-of-darkness Method 
 
@@ -35,12 +35,16 @@ period, where darkness events were used as the race-neutral benchmark, to test f
 - Conducted literature review on past studies, used R for data preparation and running VOD analysis with logistic
 regression.
 
-## Teaching Experience
+## Teaching Experiences
 
 #### Teaching Assistant - Applied Machine Learning in Economics
 
 - Conducted weekly office hours, managed the online discussion forum, assisted with lab sessions, and evaluated students’ project reports.
 - Helped students strengthen statistical concepts, programming skills, and report writing skills.
+
+## Stat 385 - Statistical Programming
+
+Stat 385 has been an enriching learning experience for me. The most rewarding part is version control using github. In this semester I am working on 2 group projects, and github has made group collaborations much more efficient.
 
 ## Contact me
 
