@@ -1,4 +1,4 @@
-[About](about.md)
+[Blogs](Blogs.Rmd)
 
 ## About me
 
