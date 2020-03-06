@@ -6,7 +6,11 @@ I am a senior student majoring in Economics and Statistics at the [University of
 
 ![](uoft.png)
 
-## Stat 385 - Statistical Programming
+## Blogs
+
+##
+
+- [Stat 385 Learning Experiences]()
 
 Stat 385 has been an enriching learning experience for me. The most rewarding part is version control using github, which has made group collaborations much more efficient. I also realized the great potential that can be achieved using r, such as creating a presentation slide, writing an academic report and generating an interactive plot.
 
@@ -20,29 +24,16 @@ fig <- fig %>% add_surface()
 fig
 ```
 
-## Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios
+- [Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios](irisk.md)
 
-This is a current research project under the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi). The goal is to investigate how option data on the components of a portfolio can be employed to determine the Value-at-Risk of the investment portfolio and to explore model-free approaches for determining the VaR. I used R to set up binomial tree model and compute implied volatility surface. This project is scheduled to be presented at the [Undergraduate Research Symposium](https://undergradresearch.illinois.edu/symposium.html).
+- [Are Microloans Too Small?](microloan.md)
 
-## Are Microloans Too Small?
+- [Behind the Shine: Modeling Diamond Prices with Machine Learning](diamond.md)
 
-I participated into this project as a research assistant under professor [Adam Osman](https://www.adam-osman.com/). The goal is to study how treatment effects of receiving microloans vary across individuals. Random forest was found to outperform other methods in terms of the significance of estimation. A significant heterogeneous treatment effect was found in monthly profits. I used R to implement machine learning models, including elastic net, random forest, boosting, and neural net. My tasks involved literature reviews, data cleaning, data visualization, model comparison, and report writing. I also set up Amazon Web Service EC2 Instances were set up to speed up analyses.
+- [Testing Racial Disparities in Traffic Stops with Veil-of-darkness Method](vod.md)
 
-## Behind the Shine: Modeling Diamond Prices with Machine Learning
- 
-The goal is to find a model with accurate predictions on diamond prices so that customers can avoid being exploited by
-retailers. After comparing model performance, bagging generated the lowest prediction error. Diamond size and weight
-contribute the most to the price, yet diamond cut quality only has a trivial effect. I used R to set up multiple machine learning models and performed parameter tuning to enhance prediction accuracy. This project was presented at the [UIUC Economics Research Symposium](https://economics.illinois.edu/research/undergraduate-research/econ-research-symposium).
+- [Teaching Assistant - Applied Machine Learning in Economics](ta.md)
 
-## Testing Racial Disparities in Traffic Stops with Veil-of-darkness Method 
-
-This is a consulting project for the Urbana Police Department and the goal is to conduct a veil-of-darkness (VOD) analysis. VOD refers to the assumption that police suffer an impaired ability to detect motorists' race. The study focused on traffic stops made during the intertwilight period, where darkness events were used as the race-neutral benchmark, to test for any existence of racial profiling. I conducted literature reviews on past studies, used R for data preparation and running VOD analysis with logistic regression.
-
-## Teaching Assistant - Applied Machine Learning in Economics
-
-I conducted weekly office hours, managed the online discussion forum, assisted with lab sessions, and evaluated students’ project reports. The goal is to help students strengthen statistical concepts, programming skills, and report writing skills.
-
-This is my [blog](Implied_volatility_surface.html).
 
 ## Contact me
 
