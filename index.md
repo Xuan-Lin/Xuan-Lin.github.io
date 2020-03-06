@@ -8,8 +8,6 @@ I am a senior student majoring in Economics and Statistics at the [University of
 
 ## Blogs
 
-##
-
 - [Stat 385 Learning Experiences]()
 
 Stat 385 has been an enriching learning experience for me. The most rewarding part is version control using github, which has made group collaborations much more efficient. I also realized the great potential that can be achieved using r, such as creating a presentation slide, writing an academic report and generating an interactive plot.
