@@ -7,24 +7,16 @@ I am a senior student majoring in Economics and Statistics at the [University of
 ## Blogs
 
 - [Stat 385 Learning Experiences](blog.html)
-
 - [Implied Portfolio Value-at-Risk: model-free and forward-looking risk estimates for investment portfolios](irisk.md)
-
 - [Are Microloans Too Small?](microloan.md)
-
 - [Behind the Shine: Modeling Diamond Prices with Machine Learning](diamond.md)
-
 - [Testing Racial Disparities in Traffic Stops with Veil-of-darkness Method](vod.md)
-
 - [Teaching Assistant - Applied Machine Learning in Economics](ta.md)
 
 
 ## Contact me
 
 - Email: xuanl2@illinois.edu
-
 - [CV](https://drive.google.com/open?id=1lTdcTzZd6QJ72bnshxN49P0Dn9e7wRZJ)
-
 - [Github](https://github.com/Xuan-Lin)
-
 - [Linkedin](https://www.linkedin.com/in/xuan-lin-4a7a1315a/)
