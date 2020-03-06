@@ -40,6 +40,8 @@ This is a consulting project for the Urbana Police Department and the goal is to
 
 I conducted weekly office hours, managed the online discussion forum, assisted with lab sessions, and evaluated students’ project reports. The goal is to help students strengthen statistical concepts, programming skills, and report writing skills.
 
+This is my [blog](Implied_volatility_surface.html).
+
 ## Contact me
 
 - Email: xuanl2@illinois.edu
