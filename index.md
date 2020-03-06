@@ -1,5 +1,3 @@
-[Blogs](Blogs.Rmd)
-
 ## About me
 
 I am a senior student majoring in Economics and Statistics at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Starting from August 2020, I will be pursuing my master degree in management analytics at the [University of Toronto](https://www.utoronto.ca/). I am currently a research assistant at the [Illinois Risk Lab](https://irisklabuiuc.wixsite.com/actsi), and I have worked as a teaching assistant in [applied machine learning](https://econml.web.illinois.edu/). I am actively seeking job opportunities in marketing analytics.
